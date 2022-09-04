@@ -1,0 +1,15 @@
+C:\Users\92065\Documents\plusses\labs_alg_1_n_2\3_sem\1_lab\1_lab\bin\Debug\net6.0\1_lab.exe
+C:\Users\92065\Documents\plusses\labs_alg_1_n_2\3_sem\1_lab\1_lab\bin\Debug\net6.0\1_lab.deps.json
+C:\Users\92065\Documents\plusses\labs_alg_1_n_2\3_sem\1_lab\1_lab\bin\Debug\net6.0\1_lab.runtimeconfig.json
+C:\Users\92065\Documents\plusses\labs_alg_1_n_2\3_sem\1_lab\1_lab\bin\Debug\net6.0\1_lab.dll
+C:\Users\92065\Documents\plusses\labs_alg_1_n_2\3_sem\1_lab\1_lab\bin\Debug\net6.0\1_lab.pdb
+C:\Users\92065\Documents\plusses\labs_alg_1_n_2\3_sem\1_lab\1_lab\obj\Debug\net6.0\1_lab.csproj.AssemblyReference.cache
+C:\Users\92065\Documents\plusses\labs_alg_1_n_2\3_sem\1_lab\1_lab\obj\Debug\net6.0\1_lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\92065\Documents\plusses\labs_alg_1_n_2\3_sem\1_lab\1_lab\obj\Debug\net6.0\1_lab.AssemblyInfoInputs.cache
+C:\Users\92065\Documents\plusses\labs_alg_1_n_2\3_sem\1_lab\1_lab\obj\Debug\net6.0\1_lab.AssemblyInfo.cs
+C:\Users\92065\Documents\plusses\labs_alg_1_n_2\3_sem\1_lab\1_lab\obj\Debug\net6.0\1_lab.csproj.CoreCompileInputs.cache
+C:\Users\92065\Documents\plusses\labs_alg_1_n_2\3_sem\1_lab\1_lab\obj\Debug\net6.0\1_lab.dll
+C:\Users\92065\Documents\plusses\labs_alg_1_n_2\3_sem\1_lab\1_lab\obj\Debug\net6.0\refint\1_lab.dll
+C:\Users\92065\Documents\plusses\labs_alg_1_n_2\3_sem\1_lab\1_lab\obj\Debug\net6.0\1_lab.pdb
+C:\Users\92065\Documents\plusses\labs_alg_1_n_2\3_sem\1_lab\1_lab\obj\Debug\net6.0\1_lab.genruntimeconfig.cache
+C:\Users\92065\Documents\plusses\labs_alg_1_n_2\3_sem\1_lab\1_lab\obj\Debug\net6.0\ref\1_lab.dll
